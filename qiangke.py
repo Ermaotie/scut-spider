@@ -5,8 +5,8 @@ import time
 
 office = 'https://sso.scut.edu.cn/cas/login?service=http%3A%2F%2Fxsjw2018.jw.scut.edu.cn%2Fsso%2Fdriotlogin'
 url = ''
-user = '201930020155'
-password = 'Lcg657286329'
+user = '20190155'
+password = 'Lcg657329'
 subject = '庄子寓言及其智慧'
 grade = '2019'
 college = '"机械与汽车工程学院"'
